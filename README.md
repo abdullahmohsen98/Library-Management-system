@@ -32,7 +32,7 @@ Library-Management-system is a desktop application that facilitate the process o
 # Concepts Covered
 #### C#
 #### SQL server
-#### Entity frame work
+#### Entity framework
 
 
 
